@@ -5,9 +5,9 @@ To write a C program to read n elements as input and print the elements of the a
 1. Start
 2.  an integer array and variables n, i
 3. Read the value of n (number of elements)
-4. Loop from i = 0 to n-1:
+4. Loop from i = 0 to n-1:  
    a. Read arr[i]
-5. Loop from i = 0 to n-1:
+5. Loop from i = 0 to n-1:  
    b. Print arr[i]
 6. End  
 
